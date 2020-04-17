@@ -3,7 +3,7 @@
 
 👉 System Requirements
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Windows 10 (64 bit) or any other os that can run virtual machines
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Windows 10 (64 bit) or any other OS that can run virtual machines
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Minimum 8GB RAM
 
@@ -95,5 +95,6 @@
 	hadoop jar  /opt/bitnami/hadoop/share/hadoop/mapreduce/hadoop-mapreduceexamples-*.jar grep /tmp/hdfs-example-input  /tmp/hdfs-example-output '[a-zA-Z0-9]+'  
 	hadoop fs -cat /tmp/hdfs-example-output/part-r-00000
 	```
+	Replace `/input_file.txt` with the name of the text file you created
 
 © 2020, Nipun Haldar & Kesava Karri, All rights reserved 💪   
