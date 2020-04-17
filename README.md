@@ -46,11 +46,10 @@
 ❗password is not visible while typing don't be afraid it's there❗
 
 8.  Enable SSH - enter the commands below
-	```shell
+	```
 	sudo rm -f /etc/ssh/sshd_not_to_be_run
 	sudo apt install openssh-server
 	sudo systemctl enable ssh
 	sudo systemctl start ssh
 	sudo systemctl status ssh
 	```
-	![Image of Yaktocat]([https://raw.githubusercontent.com/nipun24/hadoop-install-docs/master/images/image1.png](https://raw.githubusercontent.com/nipun24/hadoop-install-docs/master/images/image1.png))
