@@ -3,7 +3,7 @@
 
 👉 System Requirements
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows 10 (64 bit) or any other OS that can run virtual machines
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Windows 10 (64 bit) or any other OS that can run virtual machines
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Minimum 8GB RAM
 
